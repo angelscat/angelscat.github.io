@@ -20,8 +20,8 @@ keywords: 时间轴，HTML5/CSS3，响应式，打印样式，markdown，pdf，w
 
 ---
 
-* 2012.5 - ...		[搜狐](http://www.sohu.com/ "搜狐网")武汉研发中心
-* 2011.7 - 2012.1 	<strike>重庆零态网络</strike>
+* 2012.5 - ...		[搜狐](http://www.sohu.com/ "搜狐网")武汉研发中心 [搜狐企业网盘](http://pan.sohu.net/ "搜狐企业网盘") 项目组
+* 2011.7 - 2012.1 	~~重庆零态网络~~
 * 2010.5 - 2012.7 	[糯米网](http://www.nuomi.com/ "糯米网")
 * 2009.7 - 2010.5 	[人人网](http://www.renren.com/ "人人网")
 * 2005.9 - 2009.7	[武汉大学](http://www.whu.edu.cn/ "武汉大学") [国际软件学院](http://iss.whu.edu.cn/ "国际软件学院") [空间信息与数字技术](http://iss.whu.edu.cn/detailForFixed.html?id=196 "空间信息与数字技术专业简介") 专业学习
